@@ -1,0 +1,4 @@
+Conway's GOL in python. The file will take an inserted 2D array, and a number of generations. 
+The 2D array given will abide by Conway's rules and replicate for n generations. After this replication, 
+the program will trim out any empty rows/columns and return the final array. This is not as optimized as 
+possible and will be worked on to create a more efficient program.
